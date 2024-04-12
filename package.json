@@ -1,0 +1,19 @@
+{
+  "name": "project02-numberguessinggame",
+  "version": "1.0.0",
+  "description": "This is a scoring game, you will be given 3lives and have to guess the number. The summary of your score like total correct, incorrect and final score will be given as well.",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M. Danish Tabassum",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
